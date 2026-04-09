@@ -25,10 +25,13 @@ Il potenziometro fornisce un valore analogico a Arduino; questo valore viene tra
 Ruotando il potenziometro da sinistra verso destro tende ad aumentare l'intensità luminosa, invece il contrario diminuisce quest'ultima.
 
 ## File del progetto
-
+Code_Potenziometro.cpp
+Progetto.md
 
 ## Come usare il progetto
-1. 
+1. Aprire il link;
+2. Cliccare su modifica progetto;
+3. Cliccare su esegui;
 
 
 ## Autore
